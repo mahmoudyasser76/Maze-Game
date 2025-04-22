@@ -1,2 +1,2 @@
 # Maze-Game
-Try to reach the end Manually or Using BFS, DFS or A*
+Try to reach the end and solve the maze Manually or Using BFS, DFS or A*.
