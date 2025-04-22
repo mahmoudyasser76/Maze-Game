@@ -1,0 +1,10 @@
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.config
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\bin\Debug\MazeSolver.pdb
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csproj.AssemblyReference.cache
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\obj\Debug\MazeSolver.Form1.resources
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\obj\Debug\MazeSolver.Properties.Resources.resources
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csproj.GenerateResource.cache
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csproj.CoreCompileInputs.cache
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe
+D:\Main\collage\IIS\Maze solver\MazeSolver\MazeSolver\obj\Debug\MazeSolver.pdb
